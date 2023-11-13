@@ -15,6 +15,8 @@ React:  flexibilidade e interatividade do React para criar uma interface de usu�
 
 Bootstrap:  design com Bootstrap, proporcionando uma experiência visual moderna e responsiva.
 
+MySQL: eficiente sistema de gerenciamento de banco de dados que integra-se perfeitamente ao projeto, garantindo armazenamento robusto e rápido acesso aos dados.
+
 ## Pré-requisitos e Instalação
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
