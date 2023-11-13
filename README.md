@@ -5,6 +5,9 @@
 Bem-vindo ao meu primeiro projeto em Java com Spring! Este é um aplicativo full stack que apresenta operações CRUD (Create, Read, Update, Delete) 
 e uma interface estilizada com Bootstrap.
 
+![Exemplo de Gif](https://im2.ezgif.com/tmp/ezgif-2-5be9cb8d2a.gif)
+
+
 ## Tecnologias e Ferramentas
 
 Este projeto utiliza um conjunto de tecnologias para oferecer uma experiência de desenvolvimento de alta qualidade:
