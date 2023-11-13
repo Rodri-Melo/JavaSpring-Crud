@@ -29,12 +29,12 @@ git clone git@github.com:Rodri-Melo/crud-java-e-react.git
 
 2. Inicie o Banco de Dados:
 
-```bash
+
 Vá até o arquivo ProdutoApplication.java e clique em "Run" para configurar o banco de dados.
-```
+
 
 3. Inicie o Front-end:
 
-```bash
+
 Navegue até a pasta de front-end e utilize o comando npm start. Se o navegador não abrir automaticamente, acesse a URL http://localhost:3000.
-```
+
